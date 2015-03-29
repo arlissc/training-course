@@ -26,3 +26,4 @@ end of the academic year and at that point both he and I were frustrated on the 
 
 What might have been ... done differently to improve the situation? I guess some basic scheduling discussion at our first meeting would have been useful.
 
+
