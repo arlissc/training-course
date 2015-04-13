@@ -77,21 +77,20 @@ clearer.
 -   There are some markdown editors which show your formatted text next to your raw file.
     -   [MarkdownPad](http://markdownpad.com/) - (Windows) Wonderful side-by-side editor, with support for multiple flavors of Markdown.
     -   [DayOne](http://dayoneapp.com/) - (Mac/iOS) DayOne is a journal app that supports native Markdown. A great way to get some daily practice with Markdown.
-    -   [Mou](http://25.io/mou/) and the Mou-inspired [MacDown](http://macdown.uranusjr.com/) are great markdown editors for Mac.
+    -   Many other iOS text editors support Markdown. Do you have a favorite?
 -   Here are some suggestions for plain text editors:
     -   [Notepad ++](http://notepad-plus-plus.org/) - (Windows) Great for multiple languages, including R, Python, and SQL.
     -   [Nano](http://www.nano-editor.org/download.php) - (Windows/Linux) Often used as a Vim alternative at bootcamps. Integrates nicely with Gitbash on windows.
-    -   [Sublime Text](http://www.sublimetext.com/) - (Mac/Windows/Linux) Is a popular code editor with a large ecosystem of extension packages and custom themes.
-    -   [Atom](https://atom.io/)  - (Windows/Mac/Linux) Free and open source text editor developed by GitHub with real-time preview of markdown text (ctrl+shift+m) and other nice stuff like syntax highlighting or a file tree-view which tracks files being changed (ready to commit).
-- Cheat sheets:
-    -   A good cheat sheet for GitHub-flavored Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+-   Here are some of round 12's Text Editor suggestions:
+	-   [Atom](http:// atom.io)  - (Cross-Platform) Multiple people have recommended Atom as a text editor. This utility has won people over with its real-time preview capabilities, helpful functions, minimal configuration needs, and neat integration into GitHub.(H/T Martin Bentley for the first rec) 
+    -   Add your Favorite Text Editor Here!
 
 -  Tutorials
     -   [This](http://markdowntutorial.com/)
      is a nice (interactive) introduction to the basics of markdown.
      Note that new parts of the lesson appear below the current one, so scroll down after completing a task.
-    -   [R Markdown Cheat Sheet](http://shiny.rstudio.com/articles/rm-cheatsheet.html)
-        - Although part of it is R specific, most of the markdown content is the same as GitHub (h/t Jeremy Gray). 
+	- [R Markdown Cheat Sheet](http://shiny.rstudio.com/articles/rm-cheatsheet.html)  - Although part of it is R specific, most of the markdown content is the same as GitHub (h/t Jeremy Gray). 
+
 
 ## Github Pages
 
@@ -106,6 +105,4 @@ instructors' course are probably the
  being used is will make writing these pages a trifle less opaque.
 
 ## A Final Note
-
-If this page is missing something you think it should cover, let us know in the comments.
-Or better yet, make a pull request and add it to the page!
+If this page is missing something you think it should cover, let us know in the comments. Or better yet, make a pull request and add it to the page!
